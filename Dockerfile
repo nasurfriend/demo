@@ -9,3 +9,22 @@ COPY --from=build /home/app/target/demo.war tmp/demo.war
 EXPOSE 8085
 ENV MY_ENV=1
 ENTRYPOINT ["java", "-jar","/tmp/demo.war"]
+
+**************************************
+THIS SHALL BE REMOVED AFTER COMMIT
+**************************************
+
+
+**************************************
+THIS SHALL BE REMOVED AFTER COMMIT
+**************************************
+
+
+**************************************
+THIS SHALL BE REMOVED AFTER COMMIT
+**************************************
+
+
+**************************************
+THIS SHALL BE REMOVED AFTER COMMIT
+**************************************
